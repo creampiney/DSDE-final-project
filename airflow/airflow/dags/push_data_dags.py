@@ -49,7 +49,7 @@ def scraping_scopus():
     queryText = "data"
     counts = 100
     # Your API key obtained from Elsevier Developer Portal
-    API_KEY = '8aff086e4eecd3937241c72b5319f238'
+    API_KEY = '???'
 
     researches_id_set = set()
     authors_id_set = set()
